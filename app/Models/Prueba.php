@@ -9,4 +9,5 @@ class Prueba extends Model
 {
     protected $table = 'prueba';
     use HasFactory;
+    echo 'Hellooo';
 }
